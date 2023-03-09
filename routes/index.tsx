@@ -6,7 +6,7 @@ function Page() {
       <div class="flex flex-col gap-4 p-6">
         <h1 class="w-full text-center text-2xl">Recipes</h1>
         <h2 class="w-full text-center text-lg text-gray-700">
-          Common UI design patterns with performance in mind
+          Common UI patterns with performance in mind
         </h2>
       </div>
 
